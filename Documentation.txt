@@ -1,0 +1,22 @@
+**** USES OF TECHNOLOGY IN FORESTRY.
+
+Some of the innovative technologies that help to manage forests are as follows.
+
+DRONES.
+Drone technology is used to detect pests that affect canopies. This helps to identify the outbreak, and sudden actions can be taken instantly. We can also identify forest fires and 
+also locate intense hot spots. Thus avoiding the chances of a disaster and saving many lives. We can also track illegal logging with the help of drone technology. Drones can also be 
+used to distribute seed balls at places where human interventions are not possible.
+
+GEOTAGGING.
+Geotagging is a method of adding geographical data to various media such as photographs, videos, QR codes, etc. By implementing GeoTagging in forests, an individual tree can then be 
+identified with the help of satellites and can even monitor from space. Geo-tagging is usually done to fulfil specific needs such as identifying destroyed trees, preserving the 
+national trees, and endangered trees in a particular area.
+
+GREEN BOTS.
+These technology-driven intelligent sensors can be vital in preserving forests and providing data to serve as a catalyst towards more sustainable forest management. Green bots are 
+also valuable for checking methane leaks, which can deplete root level oxygen and result in the death of a tree. In addition, they monitor real-time activities in areas that are more 
+prone to forest fires. This digital inventory helps document the roots, soil types, and climatic conditions for each significant territory.
+
+LIDAR TECHNOLOGY.
+(Light Detection and Ranging) is also beneficial for modern foresters, which collects tree measurements and detailed imaging. LIDAR helps measure canopy heights and volume, 
+basal areas and habitat mapping.
